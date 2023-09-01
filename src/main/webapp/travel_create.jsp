@@ -67,7 +67,7 @@
 <body>
 	<div class="container">
 		<h1><i class="fa-brands fa-slack mr-3"></i>관광지 등록</h1>
-		<form action="" method="post" class="form">
+		<form action="travel_add" method="post" class="form">
 			<div class="form-group">
 				<label> 권역 </label> <select name="region" class="form-control"
 					style="width: 200px">
